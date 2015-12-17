@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="evlsprt3.15" value="12" />
+    <property name="installed.kotlin.plugin.version" value="1.0.0-beta-1103-IJ143-27" />
+    <property name="android-component-compatibility-check" value="1450314819884" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="2" />
+    <property name="file.chooser.recent.files" value="I:/settings.jar" />
+    <property name="selected.color.option.type" value="JAVA_STRING" />
+    <property name="ColorChooser.RecentColors" value="255-196-97-255" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="KEYMAP" value="class&#10;comple&#10;smart" />
+  </component>
+</application>
